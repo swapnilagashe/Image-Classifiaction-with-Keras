@@ -3,6 +3,8 @@ Readme file
 Hello Everyone, 
 My name is Swapnil Agashe, at the time of creating this repository I am studying at IIT Bombay pursuing chemical Engineering but my interests lie in data science and artificial intelligence.
 
+I have commented on almost every line of the code so that even a beginner with some idea of python will be able to follow.
+
 Here I have created a simple Neural Network moderl using Keras.
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
